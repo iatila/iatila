@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=%C4%B0smail%20Atila&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Kurumsal%20Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%C2%B7%202010%27dan%20beri&descSize=20&descAlignY=72" width="100%" alt="İsmail Atila">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a23,45:16226b,100:0575e6&height=210&section=header&text=%C4%B0smail%20Atila&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Enterprise%20Software%20Developer%20%C2%B7%20since%202010&descSize=20&descAlignY=72" width="100%" alt="İsmail Atila">
 
 <div align="center">
 
 <a href="https://ismail.tc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=CRM+%2F+ERP+sistemleri+kuruyorum;E-Fatura+%26+E-Ar%C5%9Fiv+entegrasyonlar%C4%B1;SAP+%C2%B7+Kerridge%2FAutoline+%C2%B7+ODBC+k%C3%B6pr%C3%BCleri;PHP+%C2%B7+Go+%C2%B7+MySQL+performans+m%C3%BChendisli%C4%9Fi" alt="Uzmanlık alanları">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+CRM+%2F+ERP+systems;E-Invoice+%26+E-Archive+integrations;SAP+%C2%B7+Kerridge%2FAutoline+%C2%B7+ODBC+bridges;PHP+%C2%B7+Go+%C2%B7+MySQL+performance+engineering" alt="Expertise">
 </a>
 
 <br><br>
 
 <a href="https://ismail.tc">
-  <img src="https://img.shields.io/badge/🌐_ismail.tc-web_sitem-1f6feb?style=for-the-badge" alt="ismail.tc">
+  <img src="https://img.shields.io/badge/🌐_ismail.tc-website-1f6feb?style=for-the-badge" alt="ismail.tc">
 </a>
 &nbsp;
 <a href="https://moserra.com">
@@ -24,21 +24,21 @@
 
 <br>
 
-## 💠 Neler yapıyorum
+## 💠 What I do
 
-| | Alan | Detay |
-|---|------|-------|
-| 🚗 | **Otomotiv CRM / ERP** | Bayi yönetimi, servis takibi, araç bakım takip ve analiz sistemleri |
-| 🧾 | **E-Fatura / E-Arşiv** | e-Logo entegrasyonu, fatura yaşam döngüsü yönetimi, otomatik taslak akışları |
-| 🔌 | **Kurumsal entegrasyon** | Kerridge/Autoline (ODBC), SAP ve üçüncü parti API köprüleri |
-| ⚙️ | **Arka plan servisleri** | Go senkronizasyon servisleri, otomasyon botları, zamanlanmış işler |
-| 🚀 | **Veritabanı performansı** | Sorgu optimizasyonu, indeksleme stratejileri, büyümeye dayanıklı şema tasarımı |
+| | Area | Details |
+|---|------|---------|
+| 🚗 | **Automotive CRM / ERP** | Dealer management, service tracking, vehicle maintenance intelligence & analytics |
+| 🧾 | **E-Invoice / E-Archive** | e-Logo integration, invoice lifecycle management, automated draft workflows |
+| 🔌 | **Enterprise integration** | Kerridge/Autoline (ODBC), SAP and third-party API bridges |
+| ⚙️ | **Background services** | Go sync services, automation bots, scheduled jobs |
+| 🚀 | **Database performance** | Query optimization, indexing strategies, growth-resilient schema design |
 
-## 🛠️ Teknolojiler
+## 🛠️ Tech stack
 
 <table>
 <tr>
-<td><b>Arka uç</b></td>
+<td><b>Backend</b></td>
 <td>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
@@ -48,7 +48,7 @@
 </td>
 </tr>
 <tr>
-<td><b>Veri</b></td>
+<td><b>Data</b></td>
 <td>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
@@ -57,17 +57,17 @@
 </td>
 </tr>
 <tr>
-<td><b>Entegrasyon</b></td>
+<td><b>Integration</b></td>
 <td>
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP">
 <img src="https://img.shields.io/badge/Kerridge%2FAutoline-1a1a2e?style=flat-square" alt="Kerridge/Autoline">
 <img src="https://img.shields.io/badge/ODBC-4B275F?style=flat-square" alt="ODBC">
-<img src="https://img.shields.io/badge/E--Fatura_%2F_E--Ar%C5%9Fiv-b91c1c?style=flat-square" alt="E-Fatura / E-Arşiv">
+<img src="https://img.shields.io/badge/E--Invoice_%2F_E--Archive-b91c1c?style=flat-square" alt="E-Invoice / E-Archive">
 <img src="https://img.shields.io/badge/SOAP_%2F_XML-6b7280?style=flat-square" alt="SOAP / XML">
 </td>
 </tr>
 <tr>
-<td><b>Ön yüz</b></td>
+<td><b>Frontend</b></td>
 <td>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript">
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
@@ -78,7 +78,7 @@
 </td>
 </tr>
 <tr>
-<td><b>Altyapı</b></td>
+<td><b>Infrastructure</b></td>
 <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
@@ -93,7 +93,7 @@
 <br>
 
 <div align="center">
-  <sub>💼 İş birliği ve projeleriniz için: <a href="https://ismail.tc"><b>ismail.tc</b></a> · <a href="https://moserra.com"><b>moserra.com</b></a></sub>
+  <sub>💼 For collaboration and projects: <a href="https://ismail.tc"><b>ismail.tc</b></a> · <a href="https://moserra.com"><b>moserra.com</b></a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575e6,55:16226b,100:0a0a23&height=110&section=footer" width="100%" alt="">
