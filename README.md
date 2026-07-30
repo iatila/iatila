@@ -49,10 +49,8 @@
 
 **Infrastructure** &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222" alt="Linux"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
 
-<br>
+---
 
 <div align="center">
-  <sub>💼 For collaboration and projects: <a href="https://ismail.tc"><b>ismail.tc</b></a> · <a href="https://moserra.com"><b>moserra.com</b></a></sub>
+  💼 <b>For collaboration and projects</b> &nbsp;→&nbsp; <a href="https://ismail.tc"><b>ismail.tc</b></a> &nbsp;·&nbsp; <a href="https://moserra.com"><b>moserra.com</b></a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0f172a&height=60&section=footer" width="100%" alt="">
