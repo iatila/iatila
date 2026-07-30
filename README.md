@@ -32,7 +32,8 @@
 | 🧾 | **E-Invoice / E-Archive** | e-Logo integration, invoice lifecycle management, automated draft workflows |
 | 🔌 | **Enterprise integration** | Kerridge/Autoline (ODBC), SAP and third-party API bridges |
 | 🔗 | **API integrations** | Meta (WhatsApp Business, Graph API), Google APIs, payment & SMS gateways |
-| ⚙️ | **Background services** | Go sync services, automation bots, scheduled jobs |
+| ⚙️ | **Background services** | Go sync services, scheduled jobs, Playwright web scraping & automation bots |
+| 🛟 | **Legacy code rescue** | Refactoring, performance overhauls, complete system rewrites |
 | 🖥️ | **Server optimization** | Linux/Windows server management, Apache tuning, caching layers, zero-downtime deploys |
 | 🚀 | **Database performance** | Query optimization, indexing strategies, growth-resilient schema design |
 
@@ -90,6 +91,7 @@
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222" alt="Linux">
 <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square" alt="Windows Server">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
 </td>
 </tr>
