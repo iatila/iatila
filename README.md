@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a23,45:16226b,100:0575e6&height=210&section=header&text=%C4%B0smail%20Atila&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Enterprise%20Software%20Developer%20%C2%B7%20since%202010&descSize=20&descAlignY=72" width="100%" alt="İsmail Atila">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=210&section=header&text=%C4%B0smail%20Atila&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Software%20Architect%20%C2%B7%20since%202010&descSize=20&descAlignY=62" width="100%" alt="İsmail Atila">
 
 <div align="center">
 
 <a href="https://ismail.tc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+CRM+%2F+ERP+systems;E-Invoice+%26+E-Archive+integrations;SAP+%C2%B7+Kerridge%2FAutoline+%C2%B7+ODBC+bridges;PHP+%C2%B7+Go+%C2%B7+MySQL+performance+engineering" alt="Expertise">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=High-performance%2C+security-first+backends;Custom+CRM+%2F+ERP+%26+internal+tools;Go+%C2%B7+Node.js+high-concurrency+services;SAP+%C2%B7+Kerridge%2FAutoline+%C2%B7+ODBC+bridges;Meta+Ads+%C2%B7+CAPI+%C2%B7+WhatsApp+integrations;Web+scraping+%26+automation+with+Playwright" alt="Expertise">
 </a>
 
 <br><br>
@@ -31,7 +31,9 @@
 | 🚗 | **Automotive CRM / ERP** | Dealer management, service tracking, vehicle maintenance intelligence & analytics |
 | 🧾 | **E-Invoice / E-Archive** | e-Logo integration, invoice lifecycle management, automated draft workflows |
 | 🔌 | **Enterprise integration** | Kerridge/Autoline (ODBC), SAP and third-party API bridges |
+| 🔗 | **API integrations** | Meta (WhatsApp Business, Graph API), Google APIs, payment & SMS gateways |
 | ⚙️ | **Background services** | Go sync services, automation bots, scheduled jobs |
+| 🖥️ | **Server optimization** | Linux/Windows server management, Apache tuning, caching layers, zero-downtime deploys |
 | 🚀 | **Database performance** | Query optimization, indexing strategies, growth-resilient schema design |
 
 ## 🛠️ Tech stack
@@ -63,6 +65,9 @@
 <img src="https://img.shields.io/badge/Kerridge%2FAutoline-1a1a2e?style=flat-square" alt="Kerridge/Autoline">
 <img src="https://img.shields.io/badge/ODBC-4B275F?style=flat-square" alt="ODBC">
 <img src="https://img.shields.io/badge/E--Invoice_%2F_E--Archive-b91c1c?style=flat-square" alt="E-Invoice / E-Archive">
+<img src="https://img.shields.io/badge/Meta_API-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta API">
+<img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Business">
+<img src="https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google APIs">
 <img src="https://img.shields.io/badge/SOAP_%2F_XML-6b7280?style=flat-square" alt="SOAP / XML">
 </td>
 </tr>
@@ -96,4 +101,4 @@
   <sub>💼 For collaboration and projects: <a href="https://ismail.tc"><b>ismail.tc</b></a> · <a href="https://moserra.com"><b>moserra.com</b></a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575e6,55:16226b,100:0a0a23&height=110&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=110&section=footer" width="100%" alt="">
