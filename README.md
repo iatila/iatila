@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=210&section=header&text=%C4%B0smail%20Atila&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Software%20Architect%20%C2%B7%20since%202010&descSize=20&descAlignY=62" width="100%" alt="İsmail Atila">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1d4ed8&height=190&section=header&text=%C4%B0smail%20Atila&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Software%20Architect%20%C2%B7%20since%202010&descSize=19&descAlignY=68" width="100%" alt="İsmail Atila">
 
 <div align="center">
 
@@ -90,7 +90,6 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222" alt="Linux">
-<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square" alt="Windows Server">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
 </td>
@@ -103,4 +102,4 @@
   <sub>💼 For collaboration and projects: <a href="https://ismail.tc"><b>ismail.tc</b></a> · <a href="https://moserra.com"><b>moserra.com</b></a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=110&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0f172a&height=60&section=footer" width="100%" alt="">
