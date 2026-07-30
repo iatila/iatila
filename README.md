@@ -8,17 +8,7 @@
 
 <br><br>
 
-<a href="https://ismail.tc">
-  <img src="https://img.shields.io/badge/🌐_ismail.tc-website-1f6feb?style=for-the-badge" alt="ismail.tc">
-</a>
-&nbsp;
-<a href="https://moserra.com">
-  <img src="https://img.shields.io/badge/Moserra-Software-0e7490?style=for-the-badge&logo=buffer&logoColor=white" alt="Moserra Software">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ismailatila/">
-  <img src="https://img.shields.io/badge/LinkedIn-ismailatila-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<a href="https://ismail.tc"><img src="https://img.shields.io/badge/🌐_ismail.tc-website-1f6feb?style=for-the-badge" alt="ismail.tc"></a>&nbsp;&nbsp;<a href="https://moserra.com"><img src="https://img.shields.io/badge/Moserra-Software-0e7490?style=for-the-badge&logo=buffer&logoColor=white" alt="Moserra Software"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ismailatila/"><img src="https://img.shields.io/badge/LinkedIn-ismailatila-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
